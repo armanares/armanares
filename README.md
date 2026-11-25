@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Arman 👋
 
-<!--
-**armanares/armanares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student | Second Year**
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about software development, problem-solving, and exploring how technology works. I'm continuously learning, building projects, and improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Technical Skills
+- Languages: C, C++, JavaScript , Python
+- Core Concepts:Data Structures & Algorithms, Object-Oriented Programming
+- Development: Backend Development, REST APIs
+- Currently Exploring: Cloud Computing & Cybersecurity
+
+🌱 Currently Learning
+- Backend development and server-side programming
+- Advance Data Structures & Algorithms for problem-solving
+- Cloud Computing and its technologies
+- Fundamentals of Cybersecurity
+
+ 🎯 Goals
+- Strengthen my programming and problem-solving skills
+- Build practical projects and gain hands-on experience
+- Contribute to open-source projects
+- Grow as a software developer and explore new technologies
+
+📫 Connect with Me
+
+- email : zaddyarman@gmail.com
+
+
+
+ Always learning , building , and improving. 🚀
